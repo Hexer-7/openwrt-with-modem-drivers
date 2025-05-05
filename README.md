@@ -22,3 +22,7 @@ Then add new interface (or you can edit wan) and choose protocol "QMI Cellular"
  and add your APN and if there is auth and choose IPv4 if you ISP not support IPv6
  and press "Save" and wait for seconds and it will work
 
+
+## NOTE: to send AT commands install luci-app-atcommands ipk package in release,
+it's for [4IceG](https://github.com/4IceG) btw.
+
