@@ -1,7 +1,7 @@
 # Hi,
 
 This is build of
-openwrt 24.10.1 with quectel modem drivers QMI over usb or pcie
+openwrt 24.10.1 with quectel modem drivers QMI over usb or pcie for Banana Pi R4
 Links on Release
 
 For usb send these commands to the modem:
