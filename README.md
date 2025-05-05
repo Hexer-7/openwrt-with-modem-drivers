@@ -19,7 +19,7 @@ AT+CPIN=Your SIM Pin
 
 
 Then add new interface (or you can edit wan) and choose protocol "QMI Cellular" 
- and add your APN and if there is auth and choose IPv4 if you ISP not support IPv6
+ and add your APN and if there is auth and choose IPv4 if your ISP not support IPv6
  and press "Save" and wait for seconds and it will work
 
 
